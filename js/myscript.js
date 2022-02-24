@@ -4,7 +4,7 @@ let wrapper = document.getElementById('wrapper-div');
 for (let i = 0; i < 101; i++) {
     let boxText = document.createElement ("div");
 
-    boxText.classList.add('col-2');
+    boxText.classList.add('col-2', 'p-3');
 
     wrapper.append(boxText);
 
