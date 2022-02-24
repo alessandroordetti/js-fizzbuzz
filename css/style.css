@@ -1,6 +1,22 @@
+body {
+    background-color: black;
+}
+
 .container {
     background-color: brown;
 }
 
+.buzz {
+    background-image: url('../img/buzz.jfif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: ;
+}
 
+.fizz {
+    background-image: url('../img/fizz.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: ;
+}
 
