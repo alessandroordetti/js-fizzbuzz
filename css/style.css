@@ -10,13 +10,12 @@ body {
     background-image: url('../img/buzz.jfif');
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: ;
+    background-position: center;
 }
 
 .fizz {
     background-image: url('../img/fizz.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: ;
 }
 
